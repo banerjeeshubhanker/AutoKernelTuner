@@ -1,0 +1,4 @@
+
+DATA_COLLECTION_INTERVAL = 5
+TUNING_INTERVAL = 10
+MODEL_PATH = "rl_tuner/kernel_tuner_model"
