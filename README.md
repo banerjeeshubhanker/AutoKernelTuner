@@ -5,6 +5,8 @@
 
 ## Features
 - **Automated Parameter Tuning**: Optimizes kernel parameters in real time based on system workload.
+
+## To Dos
 - **Workload Prediction**: Uses time-series analysis to predict future workload patterns and make proactive adjustments.
 - **Real-Time Monitoring**: Continuously monitors key performance metrics to evaluate tuning effectiveness.
 
